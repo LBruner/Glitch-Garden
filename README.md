@@ -8,7 +8,6 @@
 
 <img src="11-07-21.png"></img>
 
-<img src="11-07-21"></img>
 
 ## 🚀Descrição do projeto: 
 

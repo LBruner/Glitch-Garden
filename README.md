@@ -6,7 +6,7 @@
 
 ### Layout do projeto concluído:
 
-![](C:\Users\PARTICULAR\AppData\Roaming\Typora\typora-user-images\image-20210711213316175.png
+<img src="11-07-21"></img>
 
 <img src="11-07-21"></img>
 

@@ -6,7 +6,7 @@
 
 ### Layout do projeto concluído:
 
-<img src="11-07-21"></img>
+<img src="11-07-21.png"></img>
 
 <img src="11-07-21"></img>
 
